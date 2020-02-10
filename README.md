@@ -9,3 +9,7 @@ Machine Learning Algorithms: Decision Tree, Random Forest & K-fold Cross Validat
 •	Created Decision Tree, Random Forest and K-fold Cross Validation trained models and visualized each model for better understanding of area under the curve (AUC) and accuracy.
 
 •	Concluded the best possible model by comparing the accuracy by passing the test data to each trained model.
+
+•	Documented creation and working of each model and tabulated the results of each model.
+
+
